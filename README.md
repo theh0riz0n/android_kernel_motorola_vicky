@@ -2,7 +2,9 @@
 These kernel sources were downloaded, extracted and commited to this github repository for easier access to 
 kernel sources. All work of kernel sources goes to motorola team and others featured in credis file. I am
 not responsible for patching this kernel source. It may be updated when new kernel sources could be available
-until motorola releases stable Android 13.
+until motorola releases stable Android 13. Branches mean Android versions. For example this kernel source was 
+extracted and made for firmware version "S3SV32.45-24-3" which was retail version that came when device was purchased.
+for questions read my profile. I'll try to reply to your question/questions asap. 
 
 # How do I submit patches to Android Common Kernels
 
