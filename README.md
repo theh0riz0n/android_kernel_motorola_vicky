@@ -1,3 +1,9 @@
+# Motorola G72 kernel sources.
+These kernel sources were downloaded, extracted and commited to this github repository for easier access to 
+kernel sources. All work of kernel sources goes to motorola team and others featured in credis file. I am
+not responsible for patching this kernel source. It may be updated when new kernel sources could be available
+until motorola releases stable Android 13.
+
 # How do I submit patches to Android Common Kernels
 
 1. BEST: Make all of your changes to upstream Linux. If appropriate, backport to the stable releases.
